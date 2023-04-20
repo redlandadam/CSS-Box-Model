@@ -12,10 +12,8 @@
 
 #box-two {
     background-color: cadetblue;
-    border-top:20px black solid;
-    border-bottom:20px black solid;
-    border-left: 10px black solid;
-    border-right: 10px solid black;
+    border: solid black;
+    border-width: 20px 10px;
     margin-left: 260px;
 }
 
